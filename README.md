@@ -1,4 +1,4 @@
-MY self Bhimagani Ranjith
+My self Bhimagani Ranjith
 
 I have done this Basic Banking System project as a task given by Sparks Foundation.
 
