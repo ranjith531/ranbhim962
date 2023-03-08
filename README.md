@@ -6,7 +6,7 @@ Basic Banking System
 
 For this project the technologies used are mentioned below.
 
-Technologies used:-HTML,CSS,Bootstrap,PHP
+Technologies used:-HTML,CSS,Bootstrap,PHP,JAVASCRIPT
 
  Database:-MYSQL
 
